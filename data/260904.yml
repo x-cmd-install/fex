@@ -7,7 +7,7 @@ about:
   head: b77ab14
   archived: false
   latestVersion: v0.1.4
-  collectedAt: 2026-09-04T19:24:33Z
+  collectedAt: 2026-09-04T21:09:10Z
 timeline:
   created: 2024-03-25
   lastCommit: 2025-05-18
@@ -81,5 +81,28 @@ total:
   openIssue: 3
   commit: 252
 ---
+path: /home/runner/.x-repo/github.com/18alantom/fex
+collectedAt: 2026-09-04T21:09:11Z
+loc:
+  Zig:
+    code: 4404
+    comments: 312
+    blanks: 879
+    files: 33
+  Sh:
+    code: 345
+    comments: 23
+    blanks: 91
+    files: 2
+  Markdown:
+    code: 0
+    comments: 248
+    blanks: 90
+    files: 1
+total:
+  code: 4762
+  comments: 594
+  blanks: 1064
+  files: 36
 ---
 
