@@ -22,7 +22,17 @@ x install fex
 - **Latest**: `v0.1.4` (2024-09-21)
 - **Last commit**: 2025-05-18
 - **Assets in release**: 6
-- **Published**: 2024-09-21T10:34:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fex-0.1.4-aarch64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz) | 194.0 KiB | `native/darwin/arm64` |
+| [fex-0.1.4-aarch64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz.sha512) | 161 B | `native/darwin/arm64` |
+| [fex-0.1.4-x86_64-linux.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz) | 887.0 KiB | `native/linux/x64` |
+| [fex-0.1.4-x86_64-linux.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz.sha512) | 160 B | `native/linux/x64` |
+| [fex-0.1.4-x86_64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz) | 204.5 KiB | `native/darwin/x64` |
+| [fex-0.1.4-x86_64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz.sha512) | 160 B | `native/darwin/x64` |
 
 ## Popularity
 
@@ -55,8 +65,8 @@ Total: **4,749** lines of code across **36** files in the top 5 languages.
 Install metadata for fex lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fex` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fex.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/fex.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:28:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:11:22Z._

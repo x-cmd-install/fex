@@ -4,7 +4,7 @@
 
 A command-line file explorer prioritizing quick navigation.
 
-![fex](https://repo.x-cmd.io/fex.svg)
+![fex](https://repo.x-cmd.io/fex.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install fex
 - **最新版本**: `v0.1.4` (2024-09-21)
 - **最近提交**: 2025-05-18
 - **Release 含资产**: 6 个
-- **发布时间**: 2024-09-21T10:34:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [fex-0.1.4-aarch64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz) | 194.0 KiB | `native/darwin/arm64` |
+| [fex-0.1.4-aarch64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz.sha512) | 161 B | `native/darwin/arm64` |
+| [fex-0.1.4-x86_64-linux.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz) | 887.0 KiB | `native/linux/x64` |
+| [fex-0.1.4-x86_64-linux.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz.sha512) | 160 B | `native/linux/x64` |
+| [fex-0.1.4-x86_64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz) | 204.5 KiB | `native/darwin/x64` |
+| [fex-0.1.4-x86_64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz.sha512) | 160 B | `native/darwin/x64` |
 
 ## 流行度
 
@@ -59,4 +69,4 @@ fex 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:11:22Z._
