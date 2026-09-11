@@ -12,6 +12,16 @@ A command-line file explorer prioritizing quick navigation.
 x install fex
 ```
 
+## Code insight
+
+Total: **4,749** lines of code across **36** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Zig | 4,404 | 312 | 879 | 33 |
+| Sh | 345 | 23 | 91 | 2 |
+| Markdown | 0 | 248 | 90 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/18alantom/fex>
@@ -22,17 +32,6 @@ x install fex
 - **Latest**: `v0.1.4` (2024-09-21)
 - **Last commit**: 2025-05-18
 - **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [fex-0.1.4-aarch64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz) | 194.0 KiB | `native/darwin/arm64` |
-| [fex-0.1.4-aarch64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz.sha512) | 161 B | `native/darwin/arm64` |
-| [fex-0.1.4-x86_64-linux.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz) | 887.0 KiB | `native/linux/x64` |
-| [fex-0.1.4-x86_64-linux.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz.sha512) | 160 B | `native/linux/x64` |
-| [fex-0.1.4-x86_64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz) | 204.5 KiB | `native/darwin/x64` |
-| [fex-0.1.4-x86_64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz.sha512) | 160 B | `native/darwin/x64` |
 
 ## Popularity
 
@@ -46,19 +45,23 @@ x install fex
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last720d | 2024-09-21 | 1 | 4 | 0 | 1 | 2 | 16 |
 
-## Code size
+## Release assets
 
-Total: **4,749** lines of code across **36** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Zig | 4,404 | 312 | 879 | 33 |
-| Sh | 345 | 23 | 91 | 2 |
-| Markdown | 0 | 248 | 90 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fex-0.1.4-aarch64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz) | 194.0 KiB | `native/darwin/arm64` |
+| [fex-0.1.4-aarch64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-aarch64-macos.tar.gz.sha512) | 161 B | `native/darwin/arm64` |
+| [fex-0.1.4-x86_64-linux.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz) | 887.0 KiB | `native/linux/x64` |
+| [fex-0.1.4-x86_64-linux.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-linux.tar.gz.sha512) | 160 B | `native/linux/x64` |
+| [fex-0.1.4-x86_64-macos.tar.gz](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz) | 204.5 KiB | `native/darwin/x64` |
+| [fex-0.1.4-x86_64-macos.tar.gz.sha512](https://github.com/18alantom/fex/releases/download/v0.1.4/fex-0.1.4-x86_64-macos.tar.gz.sha512) | 160 B | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for fex lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:11:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:17:52Z._
